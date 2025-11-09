@@ -11,7 +11,7 @@ import Contact from "./components/Contact";
 
 const App = () => {
   return (
-    <div className="flex w-full min-h-screen flex-col border-2 border-black bg-[#fff3ef] overflow-x-hidden">
+    <div className="flex w-full min-h-screen flex-col bg-[#fff3ef] overflow-x-hidden">
       <Navbar />
       <Hero />
       <About />
